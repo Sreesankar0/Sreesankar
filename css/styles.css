@@ -186,3 +186,14 @@ padding: 20px 0;
   float: left;
   color: rgb(10, 8, 8);
 }
+.dark-mode {
+  background-color: black;
+}
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #060a06; 
+  color: white;
+}
