@@ -3,6 +3,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  overflow-x: hidden;
 
 }
 
@@ -28,16 +29,19 @@ h3 {
 }
 
 .top-container {
+  overflow-x: hidden;
   background-color: #E4F9F5;
   position: relative;
   padding-top: 200px;
 }
 
 .middle-container {
+  overflow-x: hidden;
 margin: 100px 0;
 }
 
 .bottom-container {
+  overflow-x: hidden;
   background-color: #66bfbf;
   padding: 50px 0 20px;
 }
@@ -55,7 +59,7 @@ margin: 100px 0;
 }
 .skill-row{
   width: 50%;
-  margin: 200px auto 200px auto;
+  margin: 180px auto 180px auto;
   text-align: right;
 
 }
@@ -67,7 +71,7 @@ margin: 100px 0;
 .chilli-img{
   width: 25%;
   float:right;
-  margin-left: 60px;
+  margin-left: 30px;
 }
 .Intro{
   width: 30%;
